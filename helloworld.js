@@ -4,7 +4,7 @@
 // command to give the node interpreter a call
 
 if(process.argv.length<3) {
-	console.log("Enter command variables");
+	console.log("Enter command variables")
 	}
 else
-	console.log("Hello World, you are ", process.argv.slice(2));
+	console.log("Hello World, you are ", process.argv.slice(2))
